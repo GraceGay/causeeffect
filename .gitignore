@@ -1,3 +1,11 @@
+#针对当前项目的配置
+#
+data/*
+datamodel/*
+simple-examples/* 
+tagbardebug.log* 
+ 
+ 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -81,7 +89,8 @@ celerybeat-schedule
 # virtualenv
 venv/
 ENV/
-
+# gz
+*.gz
 # Spyder project settings
 .spyderproject
 
