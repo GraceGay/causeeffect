@@ -1,9 +1,10 @@
 #针对当前项目的配置
 #
-data/*
-datamodel/*
 simple-examples/* 
 tagbardebug.log* 
+input/*
+output/*
+savemodel/*
  
  
 # Byte-compiled / optimized / DLL files
